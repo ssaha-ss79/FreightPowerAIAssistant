@@ -1,0 +1,17 @@
+{
+  "name": "logistics-assistant-backend",
+  "version": "1.0.0",
+  "description": "Backend for the Voice-Driven Smart Logistics Assistant",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^9.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "uuid": "^9.0.1"
+  }
+}
+
